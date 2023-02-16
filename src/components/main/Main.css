@@ -1,0 +1,31 @@
+.main {
+  width: 80%;
+  margin: 1rem auto;
+  padding: 1rem;
+  /* display: flex; */
+  /* align-items: center; */
+  /* display: block; */
+
+  flex-wrap: wrap;
+  /* background-color: blue; */
+}
+
+.card {
+  width: 500px;
+  background-color: rgba(208, 43, 226, 0.5);
+  margin: auto;
+  padding: 2rem;
+}
+.cardImg {
+  width: 60%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 15px;
+}
+
+.btn {
+  padding: 10px;
+  margin: 10px;
+  background-color: olive;
+  border-radius: 8px;
+  border: none;
+}
